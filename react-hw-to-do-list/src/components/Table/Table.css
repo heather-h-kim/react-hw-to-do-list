@@ -1,0 +1,20 @@
+th {
+    text-align: left;
+    font-size: 20px;
+    border-bottom: 3px solid black;
+   }
+   
+   
+table {
+    width: 98%;
+    margin: auto;
+}
+   
+.task-cell {
+    min-width: 350px;
+}
+
+.other-cells {
+    width: 170px;
+    text-align: center;
+}
