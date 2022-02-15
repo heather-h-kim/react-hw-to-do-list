@@ -1,3 +1,7 @@
 .task-input{
     width: 300px;
 }
+
+#input-fields {
+    margin-top: 20px;
+}

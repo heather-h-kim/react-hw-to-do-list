@@ -9,12 +9,24 @@ table {
     width: 98%;
     margin: auto;
 }
+
+#table-container {
+    margin-top: 40px;
+}
    
 .task-cell {
+    min-width: 350px;
+}
+
+#task {
     min-width: 350px;
 }
 
 .other-cells {
     width: 170px;
     text-align: center;
+}
+
+.other-head {
+    width: 170px;
 }
